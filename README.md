@@ -70,11 +70,10 @@ cv2.imshow("Dilated Image",dilationImage)
 
 
 ### Display the Eroded Image
-![name1](https://user-images.githubusercontent.com/94154780/169644465-90ef215d-0c08-4c4b-a0a6-e3946b44d331.png)
-
+![name2](https://user-images.githubusercontent.com/94154780/169644578-b36863a8-871c-481d-878f-af5c438d167c.png)
 
 ### Display the Dilated Image
-![name2](https://user-images.githubusercontent.com/94154780/169644476-e50bbd54-4441-49ab-a6ea-c0ee4ec14644.png)
+![name1](https://user-images.githubusercontent.com/94154780/169644592-4e8edde9-e589-4ff1-bd04-2427c9df2b59.png)
 
 
 ## Result
