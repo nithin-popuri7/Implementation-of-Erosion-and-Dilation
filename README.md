@@ -23,7 +23,8 @@ To implement Erosion and Dilation using Python and OpenCV.
 
  
 ## Program:
-
+Name:P.Siva Naga Nitin
+Reg.No:212221240037
 ``` Python
 # Import the necessary packages
 
