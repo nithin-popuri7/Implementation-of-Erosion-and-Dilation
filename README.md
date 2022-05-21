@@ -56,10 +56,10 @@ To implement Erosion and Dilation using Python and OpenCV.
 
 
 ### Display the Eroded Image
-![github.logo](image1.png)
+![github.logo](image2.png)
 
 ### Display the Dilated Image
-![github.logo](image2.png)
+![github.logo](image1.png)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
