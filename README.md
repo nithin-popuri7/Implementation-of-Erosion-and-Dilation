@@ -6,20 +6,32 @@ To implement Erosion and Dilation using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>
+Import the necessary packages to do Erosion and Dilution.
 
 
 ### Step2:
-<br>
+Create the text image of our name using putText from cv2 package.
 
 ### Step3:
-<br>
+
+Create the required structural element.
 
 ### Step4:
-<br>
+Apply Erode and Dilution for our NameImage.
+
+
 
 ### Step5:
-<br>
+Display the output images.
+
+
+
+### Step6:
+End The Program.
+
+
+
+
 
  
 ## Program:
