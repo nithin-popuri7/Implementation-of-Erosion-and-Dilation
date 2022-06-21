@@ -48,7 +48,7 @@ import numpy
 
 NameImage = numpy.zeros((100,1000),dtype='uint8')
 font = cv2.FONT_ITALIC
-cv2.putText(NameImage,'Koduru Sanath Kumar Reddy',(50,70),font,2,(255),5,cv2.LINE_4)
+cv2.putText(NameImage,'Popuri Siva Naga Nithin',(50,70),font,2,(255),5,cv2.LINE_4)
 cv2.imshow("Name Image",NameImage)
 
 
